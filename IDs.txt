@@ -1,0 +1,5 @@
+# Format: user_id|expiry
+# Lifetime: user_id|lifetime
+1767590675|lifetime
+6988969946|2026-12-31
+1981253384|2027-06-15
